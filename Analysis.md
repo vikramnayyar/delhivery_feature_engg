@@ -1,5 +1,5 @@
 # 1.     Dataset Overview
-## 1.2  Dataset Structure
+## 1.1  Dataset Structure
 - There are 11 Numerical cols
 - There are 8 object cols
 - There are 4 datetime cols
